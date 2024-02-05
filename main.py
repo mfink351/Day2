@@ -1,6 +1,3 @@
-
-
-
 print("Welcome to the tip calculator.")
 total = input("What was the total bill? $")
 num_people = input("How many people to split the bill? ")
